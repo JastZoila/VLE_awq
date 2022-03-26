@@ -1,0 +1,16 @@
+{
+  "name": "VLE_azz",
+  "description": "VLE_azz",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "AUUID",
+      "value": ""
+    }
+  },
+  "website": "https://github.com/JastZoila/",
+  "repository": "",
+  "stack": "container"
+}
